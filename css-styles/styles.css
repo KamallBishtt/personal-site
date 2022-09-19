@@ -1,0 +1,60 @@
+body {
+  margin: 0px;
+  text-align: center;
+}
+
+h1 {
+  margin: 0px;
+    font-family: 'Handlee';
+}
+h2 {
+    font-family: 'Handlee';
+}
+h3 {
+    font-family: 'Handlee';
+}
+.stu{
+font-family: 'Patrick Hand SC';
+}
+
+p{
+  font-family: 'Patrick Hand SC';
+}
+
+.top-container {
+  background-color: #87A2FB;
+  position: relative;
+  padding-top: 100px;
+}
+.pp{
+  margin-top: 20px;
+  width:20%;
+  height: 20%;
+}
+.middle-container {
+  background-color: #87A2FB;
+
+}
+hr{margin: 0px;}
+.bottom-container {
+background-color: #87A2FB;
+}
+
+.topcloud {
+  position: absolute;
+  top: 50px;
+  right: 350px;
+}
+
+.bottomcloud {
+  position: absolute;
+  top: 200px;
+}
+
+.photography{
+  margin-top: 50px;
+}
+
+.sketching{
+  margin-top: 50px;
+}
